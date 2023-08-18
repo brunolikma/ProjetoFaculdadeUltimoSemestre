@@ -3,5 +3,5 @@ Projeto do Ultimo Semestre da Faculdade
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72528527/261608456-23064be2-7e69-47cf-8b18-04130244d840.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/72528527/261630306-d86e72d8-5eff-40ef-823b-cc5ff3601a15.png" width="700px" />
 </div>
