@@ -139,7 +139,7 @@ venv.bak/
 /site
 
 # mypy
-Script/Credenciais.py
+Scripts/Credenciais.py
 .mypy_cache/
 .dmypy.json
 dmypy.json
